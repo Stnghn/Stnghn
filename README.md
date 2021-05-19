@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stnghn
-- 👀 I’m interested in understanding what is this
-- 🌱 I’m currently learning this
-- 💞️ I’m looking to collaborate on this
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to use the website
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me here
 
 <!---
