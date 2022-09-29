@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Stnghn
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to use the website
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me here
+- 🧝🏻‍♀️ Hi, I’m @Stnghn
+- 💻 Interested in full-stack development
+- 👁️ Looking for continuously self-improve
 
 <!---
 Stnghn/Stnghn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
